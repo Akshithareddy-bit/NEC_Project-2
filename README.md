@@ -4,6 +4,14 @@
 
 https://nec-project-2-t21t.onrender.com
 
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Forecast & Analytics
+![Forecast & Analytics](dashboard_2.png)
+
 ## Project Overview
 
 This project uses machine learning techniques to forecast future sales and optimize inventory management. The interactive Streamlit dashboard helps users analyze sales trends, generate forecasts, and make inventory decisions.
