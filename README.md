@@ -45,9 +45,6 @@ This project uses machine learning techniques to forecast future sales and optim
 
    streamlit run app.py
 
-## Live Application
-
-https://nec-project-2-t21t.onrender.com
 
 ## Author
 
