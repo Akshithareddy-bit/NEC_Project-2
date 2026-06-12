@@ -1,0 +1,6 @@
+Date,Product,Sales,Revenue,Stock,Orders,Lead_Time,Category,Supplier
+2024-01-01,Laptop,50,50000,100,20,5,Electronics,ABC
+2024-01-02,Mobile,80,40000,150,30,3,Electronics,XYZ
+2024-01-03,Monitor,40,20000,80,15,4,Electronics,ABC
+2024-01-04,Keyboard,60,12000,120,25,2,Accessories,XYZ
+2024-01-05,Mouse,70,7000,140,28,2,Accessories,ABC
